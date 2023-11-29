@@ -1,0 +1,8 @@
+Pergunta: O que faz o seguinte programa? E qual sua saida?
+
+Resposta: O que o codigo faz em questão é basicamente a multiplicação
+de vairos valores armazenados em uma matriz m, após a multiplicação ocorre a soma
+e a subtração dos resultados das multiplicações e por fim esse resultado é armazenado
+na variavel de e depois printado no terminal.
+
+A saida do codigo é: -5.
